@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The file containing the Place module
+This file contains the Place module
 """
 from api.v1.views import app_views
 from flask import jsonify, abort, request, make_response

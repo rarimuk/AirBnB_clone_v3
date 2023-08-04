@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-The module contains the principal application for RESTful API
+This module contains the principal application for RESTful API
 """
 from models import storage
 from api.v1.views import app_views
